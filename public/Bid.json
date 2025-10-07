@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A high-quality DSLR camera with excellent low-light performance and 4K video recording.",
+    "currentBidPrice": 850,
+    "timeLeft": "02h 15m",
+    "bidsCount": 18,
+    "image": "https://i.postimg.cc/FzpMSCFS/Bid1-min.png"
+  },
+  {
+    "id": 2,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Acoustic guitar with a rich, warm tone — perfect for beginners and professionals alike.",
+    "currentBidPrice": 220,
+    "timeLeft": "03h 40m",
+    "bidsCount": 12,
+    "image": "https://i.postimg.cc/L6V3LYdV/Bid2-min.png"
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Powerful desktop computer featuring a fast processor and 16GB RAM — ideal for gaming or work.",
+    "currentBidPrice": 1100,
+    "timeLeft": "05h 10m",
+    "bidsCount": 22,
+    "image": "https://i.postimg.cc/j5z7TmRY/Bid3-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Rolex Submariner 16610",
+    "description": "Stylish wristwatch with leather strap and analog dial — combines elegance and precision.",
+    "currentBidPrice": 150,
+    "timeLeft": "01h 55m",
+    "bidsCount": 9,
+    "image": "https://i.postimg.cc/L6snQnYf/Bid4-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "Ergonomic office chair designed for comfort and posture support during long working hours.",
+    "currentBidPrice": 95,
+    "timeLeft": "04h 25m",
+    "bidsCount": 14,
+    "image": "https://i.postimg.cc/L814GfHQ/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "A collection of 10 bestselling novels — great for avid readers and collectors.",
+    "currentBidPrice": 60,
+    "timeLeft": "06h 05m",
+    "bidsCount": 20,
+    "image": "https://i.postimg.cc/VL3m96jf/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "A rare original screen print by the mysterious street artist Banksy, showcasing his signature blend of satire and social commentary — a true collector’s piece",
+    "currentBidPrice": 35,
+    "timeLeft": "02h 50m",
+    "bidsCount": 7,
+    "image": "https://i.postimg.cc/C59T4PfF/Bid7-min.png"
+  }
+]
