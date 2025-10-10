@@ -7,7 +7,8 @@ import { CiBellOn } from "react-icons/ci";
 const Navbar = () => {
     return (
         
-            <div className="navbar flex justify-around p-5 items-center bg-red-400">
+          
+             <div className="navbar flex justify-around p-5 items-center ">
                 <h3 className='text-[#003EA4] text-2xl'>Auction<span className='text-[#FFD337] font-bold'>Gallery</span></h3>
                 <div className='flex gap-12' style={{ fontFamily: "'Poppins', sans-serif" }}>
                     <a href="">Home</a>
@@ -26,6 +27,7 @@ const Navbar = () => {
 
                 </div>
             </div>
+           
 
            
 
