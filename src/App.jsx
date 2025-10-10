@@ -12,7 +12,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <Banner></Banner>
-      ,<AuctionSection></AuctionSection>
+      <AuctionSection></AuctionSection>
     </>
   )
 }
