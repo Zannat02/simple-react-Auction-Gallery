@@ -1,5 +1,3 @@
-
-
 import './App.css'
 import AuctionSection from './components/AuctionSection/AuctionSection'
 import Banner from './components/Banner'
